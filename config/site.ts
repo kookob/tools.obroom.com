@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "1874's WebNav",
+  name: "Tools Navigation",
   description:
-    "1874's WebNav",
+    "Tools Navigation",
   mainNav: [
     {
       title: "Home",
@@ -11,7 +11,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    blog: "https://1874.cool",
-    github: "https://github.com/LetTTGACO"
+    blog: "https://tools.obroom.com",
+    github: "https://github.com/kookob/tools.obroom.com"
   },
 }
